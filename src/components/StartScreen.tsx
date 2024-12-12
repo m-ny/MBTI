@@ -57,6 +57,18 @@ export function StartScreen({ onStart }: StartScreenProps) {
       <p className="mt-6 text-sm text-gray-600">
         Made with ❤️ by Dropout Boulevard
       </p>
+      <p className="mt-2 text-sm">
+          <a 
+            href="https://github.com/mannymarciano/MBTI" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="text-blue-500 hover:underline"
+          >
+            View on GitHub
+          </a>
+      </p>
+
+      
     </motion.div>
   );
 }
