@@ -1,6 +1,7 @@
 # MBTI Personality Test
 
 This repository contains the codebase for the MBTI Personality Test project, hosted at [Take the Test](https://takethetest.vercel.app/). The application allows users to discover their Myers-Briggs Type Indicator (MBTI) personality type by completing a series of questions. The project is built with a focus on providing an intuitive and engaging user experience.
+New cloud storage update soon: Collect user emails and other data, upload to cloud storage and fetching a dynamic questions and answers from cloud storage.
 
 ## Features
 - **Interactive MBTI Test**: A series of questions designed to accurately identify the user's MBTI personality type.
